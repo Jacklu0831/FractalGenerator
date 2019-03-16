@@ -1,4 +1,4 @@
-# Mandelbrot-Project
+# FractalGenerator
 This projects aims to create a webpage that will allow for a dynamic viewing of the Mandelbrot set with some introduction into how they are created. 
 Goals of the project include:
 1. Create a dynamic Mandelbrot viewer
