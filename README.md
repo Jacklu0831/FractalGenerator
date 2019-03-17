@@ -16,7 +16,7 @@ This project started in early March and is on-going due to its relatively baord 
 <img width="580" alt="Screen Shot 2019-03-16 at 9 22 19 PM" src="https://user-images.githubusercontent.com/43103206/54483865-8dbbc000-4831-11e9-8036-5bd1638531bc.png">
 
 2. Mandelbrot set (left) and Julia set (right). 
-<b>Due to an on-going problem with some iOS received gif not looping on Github, please click on the gif to see it again. </b>
+<br></br><b>Due to an on-going problem with some iOS received gif not looping on Github, please click on the gif to see it again. </b>
 
 <img width="580" height="255" alt="Gif of multbrot set and multi-Julia set" src="https://user-images.githubusercontent.com/43103206/54483708-539cef00-482e-11e9-9acd-c0f3fec52f8d.gif">
 As shown in the gif, the animated Julia sets are generated in real-time based on the dynamic cursor coordinates.
