@@ -13,15 +13,14 @@ This project started in early March and is on-going due to its relatively large 
 # Progress
 
 1. Mandelbrot set (left) and Julia set (right)
-
-
+<img width="300" height="133" alt="Screen Shot 2019-03-16 at 8 49 34 PM" src="https://user-images.githubusercontent.com/43103206/54483708-539cef00-482e-11e9-9acd-c0f3fec52f8d.gif">
 
 As shown in the gif, the animated Julia sets are generated in real-time based on the dynamic cursor coordinates.
 
-2. Multibrot set (left) and Multi-Julia set(right)
+2. Multibrot set with exponent of 3 (left) and Multi-Julia set(right)
 
-3. Different web user-input exponents (D-value) for the multibrot set
-<img width="588" alt="Screen Shot 2019-03-16 at 8 49 34 PM" src="https://user-images.githubusercontent.com/43103206/54483670-8abed080-482d-11e9-91ba-60ca159b2fed.png">
+3. User-input exponents (D-value) for the multibrot set with color mapping
+<img width="588" alt="Image of integer exponent from 2-9 multibrot sets" src="https://user-images.githubusercontent.com/43103206/54483670-8abed080-482d-11e9-91ba-60ca159b2fed.png">
 
 # Resources
 
