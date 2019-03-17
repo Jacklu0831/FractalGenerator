@@ -26,5 +26,7 @@ As shown in the gif, the animated Julia sets are generated in real-time based on
 # Resources
 
 Mandelbrot set: https://en.wikipedia.org/wiki/Mandelbrot_set
+
 Julia set / Multi-Julia set: https://en.wikipedia.org/wiki/Julia_set
+
 Multibrot set: https://en.wikipedia.org/wiki/Multibrot_set
