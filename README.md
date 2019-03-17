@@ -15,7 +15,7 @@ This project started in early March and is on-going due to its relatively large 
 1. Mandelbrot set (left) and Julia set (right)
 <img width="580" height="255" alt="Gif of mandelbrot set and Julia set" src="https://user-images.githubusercontent.com/43103206/54483708-539cef00-482e-11e9-9acd-c0f3fec52f8d.gif">
 As shown in the gif, the animated Julia sets are generated in real-time based on the dynamic cursor coordinates.
-
+<br>
 
 2. Multibrot set with exponent of 3 (left) and Multi-Julia set(right)
 <img width="580" height="255" alt="Gif of multbrot set and multi-Julia set" src="https://user-images.githubusercontent.com/43103206/54483773-bc389b80-482f-11e9-985a-3a3d7cac9d0c.gif">
