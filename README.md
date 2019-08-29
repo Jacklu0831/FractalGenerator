@@ -1,5 +1,5 @@
 # FractalGenerator (on-going project)
-This projects aims to create a webpage that will allow for a dynamic viewing of the Mandelbrot, Julia, Multibrot, and Multi-Julia set with indepth explanation into how they are created. HTML5 is used for the page content, CSS is used for styling, and JavaScript (P5.js). The mathematical functions are recursive but the JS algorithm is implemented iteratively to avoid potential stack overflow. 
+This projects aims to create a webpage that will allow for a dynamic viewing of the Mandelbrot, Julia, Multibrot, and Multi-Julia set. JavaScript (P5.js) was used for the graphics. The recursive math functions were implemented iteratively to avoid stack overflow.
 
 This project started in early March and is on-going due to its relatively broad scope (web languages and mathematical algorithms).
 
